@@ -1,0 +1,92 @@
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+An asyncio.Future, a coroutine or an awaitable is required
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+HTTPSConnectionPool(host='www.proxy-list.download', port=443): Read timed out. (read timeout=15)
+HTTPSConnectionPool(host='www.proxy-list.download', port=443): Read timed out. (read timeout=15)
+HTTPSConnectionPool(host='www.proxy-list.download', port=443): Read timed out. (read timeout=15)
+HTTPSConnectionPool(host='www.proxy-list.download', port=443): Read timed out. (read timeout=15)
+No connection adapters were found for '<Section: HTTP>'
+No connection adapters were found for '<Section: SOCKS4>'
+No connection adapters were found for '<Section: SOCKS5>'
+No connection adapters were found for '<Section: HTTP>'
+No connection adapters were found for '<Section: SOCKS4>'
+No connection adapters were found for '<Section: SOCKS5>'
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
+Invalid URL 'sources': No scheme supplied. Perhaps you meant https://sources?
