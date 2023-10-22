@@ -1,2 +1,2 @@
-git clone https://github.com/Raflisepuh/proxy ok && cd ok && pip3 install -r requirements.txt
+git clone https://github.com/Raflisepuh/proxy
 python3 bot.py
