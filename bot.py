@@ -35,7 +35,7 @@ def scrap(sources, _proxy_type):
     for source in sources:
         if source:
             try:
-                response = requests.get(source, timeout=15)
+                response = requests.get(source, timeout=5)
                 if tuple(REGEX.finditer(response.text)):
                     for proxy in tuple(REGEX.finditer(response.text)):
                         if _proxy_type == 'http':
@@ -91,7 +91,7 @@ def check_proxy_ip_match(proxy):
     }
 
     try:
-        response = requests.get(url, proxies=proxies, timeout=15)
+        response = requests.get(url, proxies=proxies, timeout=5)
         if response.status_code == 200:
             origin_ip = response.json().get("origin")
             if origin_ip == proxy.split(':')[0]:
@@ -148,7 +148,7 @@ def main():
             proxy = proxy.strip()
             check_proxy(proxy, live_proxies)
 
-        time.sleep(1200)
+        time.sleep(3000)
 
 if __name__ == "__main__":
     main()
